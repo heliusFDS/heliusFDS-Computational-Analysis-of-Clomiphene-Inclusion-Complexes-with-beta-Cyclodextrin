@@ -1,1 +1,5 @@
-
+Free ZCL ligand
+495 configurations.
+input: .xyz files.
+output with energy and thermodynamic properties: .log files.
+optimized geometries: .xyz.xtbopt.xyz files
